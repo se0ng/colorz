@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 500">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #f2f3f4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 24px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="236.82" y="181.67" width="136.67" height="136.67" rx="68.33" ry="68.33"/>
+  <path class="st0" d="M216.81,298.32h0c-26.69,26.69-69.95,26.69-96.64,0h0c-26.69-26.69-26.69-69.95,0-96.64h0c26.69-26.69,69.95-26.69,96.64,0h0"/>
+  <path class="st0" d="M510.16,250c0,37.74-30.59,68.33-68.33,68.33h0c-37.74,0-68.33-30.59-68.33-68.33h0c0-37.74,30.59-68.33,68.33-68.33h0"/>
+  <rect class="st0" x="510.16" y="181.67" width="136.67" height="136.67" rx="68.33" ry="68.33"/>
+  <path class="st0" d="M803.51,201.68h0c26.69-26.69,69.95-26.69,96.64,0h0s-96.64,96.64-96.64,96.64c26.69,26.69,69.95,26.69,96.64,0"/>
+  <path class="st0" d="M715.16,318.33c-37.74,0-68.33-30.59-68.33-68.33h0c0-37.74,30.59-68.33,68.33-68.33h0c37.74,0,68.33,30.59,68.33,68.33h0"/>
+</svg>
